@@ -19,5 +19,5 @@ Thumbs.db
 # Ignore Obsidian files
 # --------------------------------
 .obsidian/workspace.json
-.obsidian/plugins/copilot/data.json
+#.obsidian/plugins/copilot/data.json
 

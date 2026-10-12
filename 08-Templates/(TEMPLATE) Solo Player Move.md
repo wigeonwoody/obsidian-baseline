@@ -1,0 +1,5 @@
+- **SETUP.**
+- **TASK.**
+- **ACTION.**
+- **RESOLVE.**
+- **TRANSITION.**

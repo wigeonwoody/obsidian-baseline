@@ -25,4 +25,7 @@ Copy/rename `data.json.template` to `data.json` in the `.obsidian/plugins/copilo
 	- Solo Roleplaying With AI Guide
 - ==Next log's WIP== (v1.???)
 	- Readme update
+	- Modified folder structure
+	- git .ignore file update, removed copilot reference
+	- Added Lonelog and IronVault plugins
 	- 

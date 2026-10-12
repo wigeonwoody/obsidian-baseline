@@ -5,4 +5,4 @@ copilot-command-context-menu-order: 10
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---
-Describe the scene. Include sights, sounds, and smells. Include dialog between characters when appropriate.
+Describe the outcome. Include sights, sounds, and smells. Include dialog between characters when appropriate.

@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Shimmering Focus"
+  "cssTheme": "Shimmering Focus",
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Courier New,Courier"
 }

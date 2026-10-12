@@ -1,3 +1,4 @@
+
 *This note's text is taken directly from 'The complete guide to Solo Roleplaying With AI' from Oracle RPG (oraclerpg.com).*
 ```table-of-contents
 title: Contents
